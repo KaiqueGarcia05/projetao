@@ -4,5 +4,6 @@ namespace Biblioteca.Models
     {
         public string TipoFiltro {get; set;}
         public string Filtro {get; set;}
+        ff
     }
 }
