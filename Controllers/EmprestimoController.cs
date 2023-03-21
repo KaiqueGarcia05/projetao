@@ -59,8 +59,6 @@ namespace Biblioteca.Controllers
             cadModel.Emprestimo = e;
             
             return View(cadModel);
-
-             public IActionResult Edicao(int id)
         }
     }
 }
