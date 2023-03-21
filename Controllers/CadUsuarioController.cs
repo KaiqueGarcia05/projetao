@@ -47,6 +47,7 @@ namespace Biblioteca.Controllers
             uc.Deletar(id);
             @ViewBag.Pag = "Conta excluida com sucesso!";
             return View();
+            public IActionResult Cadastro(Usuario u)
         }
     }
 }
