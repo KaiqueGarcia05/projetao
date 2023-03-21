@@ -48,6 +48,7 @@ namespace Biblioteca.Controllers
         public IActionResult Privacy()
         {
             return View();
+             public IActionResult Login(string login, string senha)
         }
     }
 }
